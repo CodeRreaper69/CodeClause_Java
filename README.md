@@ -27,6 +27,4 @@ I am Sourabh Dey, a passionate programmer and second-year undergraduate student 
    - Each project folder contains a README with specific details about the project. Dive into the Java source files to understand the implementation details.
 
 ## Contact Information
-
-- **LinkedIn:** [Sourabh Dey]([https://www.linkedin.com/in/sourabh-dey])
 - **Email:** deysourabh8981@gmail.com

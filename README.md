@@ -28,5 +28,5 @@ I am Sourabh Dey, a passionate programmer and second-year undergraduate student 
 
 ## Contact Information
 
-- **LinkedIn:** [Sourabh Dey]([https://www.linkedin.com/in/sourabh-dey](https://www.linkedin.com/in/sourabh-dey?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)https://www.linkedin.com/in/sourabh-dey?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn:** [Sourabh Dey]([https://www.linkedin.com/in/sourabh-dey])
 - **Email:** deysourabh8981@gmail.com

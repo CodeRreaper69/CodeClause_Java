@@ -19,7 +19,7 @@ This project implements a console-based calculator in Java, allowing users to pe
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/CodeRreaper69/CodeClause_Java.git
+    git clone https://github.com/CodeRreaper69/CodeClause_Java/tree/main/Task_1
     ```
 
 2. Navigate to the Task_1 directory:
